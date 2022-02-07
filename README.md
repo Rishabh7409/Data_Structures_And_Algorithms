@@ -1,6 +1,6 @@
 Hello Everyone..
 
-I Am Akash Kumar and Currenly I Am In 5th Semester Of Engineering.
+I Am Akash Kumar and At The Time of Uploading This Repository, I Am In 5th Semester Of Engineering.
 
 I Am Learning Data Structures And Algorithms From Past 4 Months and In The Past 4 Months I Have Been implementing The Programs Of The Data Structures And Algorithms Which I Have Learnt...
 
